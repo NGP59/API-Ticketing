@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NGP\\Desktop\\Apprentissage Minimal API\\Ticketing\\Apprentissage Minimal API.csproj",
+      "projectUniqueName": "C:\\Users\\NGP\\Desktop\\Apprentissage Minimal API\\Ticketing\\API-Ticketing\\Apprentissage Minimal API.csproj",
       "projectName": "Apprentissage Minimal API",
-      "projectPath": "C:\\Users\\NGP\\Desktop\\Apprentissage Minimal API\\Ticketing\\Apprentissage Minimal API.csproj",
+      "projectPath": "C:\\Users\\NGP\\Desktop\\Apprentissage Minimal API\\Ticketing\\API-Ticketing\\Apprentissage Minimal API.csproj",
       "packagesPath": "C:\\Users\\NGP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NGP\\Desktop\\Apprentissage Minimal API\\Ticketing\\obj\\",
+      "outputPath": "C:\\Users\\NGP\\Desktop\\Apprentissage Minimal API\\Ticketing\\API-Ticketing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NGP\\AppData\\Roaming\\NuGet\\NuGet.Config",

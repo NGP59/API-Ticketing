@@ -21,3 +21,27 @@ C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\obj\Debug\net8.0\refint
 C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.pdb
 C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.genruntimeconfig.cache
 C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\obj\Debug\net8.0\ref\Apprentissage Minimal API.dll
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.AssemblyInfoInputs.cache
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.AssemblyInfo.cs
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.csproj.CoreCompileInputs.cache
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.sourcelink.json
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.dll
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\refint\Apprentissage Minimal API.dll
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.pdb
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\bin\Debug\net8.0\Apprentissage Minimal API.exe
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\bin\Debug\net8.0\Apprentissage Minimal API.deps.json
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\bin\Debug\net8.0\Apprentissage Minimal API.runtimeconfig.json
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\bin\Debug\net8.0\Apprentissage Minimal API.dll
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\bin\Debug\net8.0\Apprentissage Minimal API.pdb
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.Apprentissage Minimal API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.build.Apprentissage Minimal API.props
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Apprentissage Minimal API.props
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Apprentissage Minimal API.props
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\scopedcss\bundle\Apprentissage Minimal API.styles.css
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\Apprentissage Minimal API.genruntimeconfig.cache
+C:\Users\NGP\Desktop\Apprentissage Minimal API\Ticketing\API-Ticketing\obj\Debug\net8.0\ref\Apprentissage Minimal API.dll

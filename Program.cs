@@ -7,9 +7,17 @@ builder.Services.AddSingleton<TodoService>();
 
 var app = builder.Build();
 
+app.MapGet("/baseUrl", (HttpContext context) =>
+{
+    var baseUrl = context.Request.Host;
+    var basePath = context.Request.Path;
+    return Results.Ok("base URL : " + baseUrl + " base path : " + basePath);
+});
+
 
 app.MapGet("/todos", ([FromServices] TodoService service) =>
 {
+
     return Results.Ok(service.GetAllTodo());
 });
 
